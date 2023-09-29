@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mafiya
+- 👋 Hi, I’m @Abhay
 - 👀 I’m interested in ...WEB-D/APP-D/COMPETETIVE STUFF.
 - 🌱 I’m currently learning ...APP-D and COMPETETIVE PROGRAMING.
 - 💞️ I’m looking to collaborate on ...FULLSTACK PROJECTS.
